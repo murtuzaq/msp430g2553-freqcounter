@@ -1,0 +1,3 @@
+[submodule "hal_msp430g2553"]
+	path = hal_msp430g2553
+	url = git@github.com:murtuzaq/hal_msp430g2553.git
